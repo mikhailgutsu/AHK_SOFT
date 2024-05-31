@@ -10,7 +10,7 @@
 
 f11::Suspend
 
-;Double Tap d key 
+;Press d key 
 
 d::
 SetKeyDelay, 0
